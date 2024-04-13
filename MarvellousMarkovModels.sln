@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvellousMarkovModels", "MarvellousMarkovModels\MarvellousMarkovModels.csproj", "{BE7C56BF-849C-4571-9954-D5596F2F30D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvellousMarkovModels", "MarvellousMarkovModels\MarvellousMarkovModels.csproj", "{BE7C56BF-849C-4571-9954-D5596F2F30D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvellousMarkovModels.Test", "MarvellousMarkovModels.Test\MarvellousMarkovModels.Test.csproj", "{83E37397-368C-4F07-8298-F4819C34DB27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvellousMarkovModels.Test", "MarvellousMarkovModels.Test\MarvellousMarkovModels.Test.csproj", "{83E37397-368C-4F07-8298-F4819C34DB27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
